@@ -14,7 +14,8 @@
         "ghcr.io/devcontainers/features/git": {
             "version": "latest",
             "ppa": "false"
-        }
+        },
+        "ghcr.io/mamba-org/devcontainer-features/micromamba:1": {}
     },
     "remoteUser": "vscode",
     "onCreateCommand": "bash .devcontainer/onCreate.sh",

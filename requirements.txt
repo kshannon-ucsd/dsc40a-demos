@@ -6,3 +6,4 @@ matplotlib
 requests
 jupyter
 scikit-learn
+seaborn
